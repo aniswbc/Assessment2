@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_1</name>
+   <tag></tag>
+   <elementGuidId>15311d1a-a277-43ab-9e96-5d5899ff1379</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//img[@alt='Sample Product'])[9]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>li:nth-child(9) > .item > .col-item > .item-inner > .product-wrapper > .thumb-wrapper > .thumb</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>ad826dcc-4d84-41e1-9898-a2d0c0186d03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>images/gallery/1890-10.jpg</value>
+      <webElementGuid>91fdb55e-d0dc-4921-b2d3-5173837a1902</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Sample Product</value>
+      <webElementGuid>07295c7b-a63d-4c68-8a09-f8f5134beec7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;cms-index-index&quot;]/div[@class=&quot;page&quot;]/div[@class=&quot;main-container col2-left-layout&quot;]/div[@class=&quot;main container&quot;]/div[@class=&quot;row&quot;]/section[@class=&quot;col-main col-sm-12&quot;]/div[@class=&quot;category-products&quot;]/ul[@class=&quot;products-grid&quot;]/li[@class=&quot;col-lg-4 col-md-4 col-sm-6 col-xs-12&quot;]/div[@class=&quot;item&quot;]/div[@class=&quot;col-item&quot;]/div[@class=&quot;item-inner&quot;]/div[@class=&quot;product-wrapper&quot;]/div[@class=&quot;thumb-wrapper&quot;]/a[@class=&quot;thumb flip fancybox&quot;]/span[@class=&quot;face&quot;]/img[1]</value>
+      <webElementGuid>7e2521ac-1233-485c-b7b3-e3bd7140b320</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[@alt='Sample Product'])[9]</value>
+      <webElementGuid>96e8b9e0-1750-4be6-b370-c1fc65c07376</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[9]/div/div/div/div/div/a/span/img</value>
+      <webElementGuid>2363ab9e-12f8-448c-98a7-297a672c912e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'images/gallery/1890-10.jpg' and @alt = 'Sample Product']</value>
+      <webElementGuid>843e05f4-f592-4e5c-9aaf-ee17ad4c7969</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

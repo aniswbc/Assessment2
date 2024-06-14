@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_msswbcollegegmail.com_fancybox-item fancy_293253</name>
+   <tag></tag>
+   <elementGuidId>59d829ff-bb04-4214-a0f3-8e16eb1c315b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.fancybox-item.fancybox-close</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[contains(@href, 'javascript:;')])[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Close&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>1d4c31ef-91bf-4f42-879b-7ad7843bd652</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Close</value>
+      <webElementGuid>36bb034c-3273-4556-b653-3133d16b7a15</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fancybox-item fancybox-close</value>
+      <webElementGuid>ab2f16a3-ebe4-44a6-acdd-80df258283e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:;</value>
+      <webElementGuid>90a715a2-8d47-4dfd-885b-ef02c1a420ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;fancybox-margin fancybox-lock&quot;]/body[@class=&quot;cms-index-index&quot;]/div[@class=&quot;fancybox-overlay fancybox-overlay-fixed&quot;]/div[@class=&quot;fancybox-wrap fancybox-desktop fancybox-type-image fancybox-opened&quot;]/div[@class=&quot;fancybox-skin&quot;]/a[@class=&quot;fancybox-item fancybox-close&quot;]</value>
+      <webElementGuid>6e1536bf-bc5c-4436-b2cc-5933a0b0fa56</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'javascript:;')])[3]</value>
+      <webElementGuid>b4178177-6acb-4afc-9d4a-c82bb683c65b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/a</value>
+      <webElementGuid>3053c98e-a036-4345-9869-5f5f1d210c76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@title = 'Close' and @href = 'javascript:;']</value>
+      <webElementGuid>c9e57971-729c-491f-b879-0cf6bcd8cc52</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

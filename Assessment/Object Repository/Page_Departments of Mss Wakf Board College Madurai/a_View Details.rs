@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_View Details</name>
+   <tag></tag>
+   <elementGuidId>8dc8ce94-eb9f-4581-907d-965b56ea6a9b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#self > #customer-reviews > div.box-reviews1 > div.form-add > fieldset > #product-review-table > tbody > tr:nth-of-type(5) > td.value > span.float-right > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//table[@id='product-review-table']/tbody/tr[5]/td[2]/span/a)[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;Department of Commerce (Computer Applications) View Details&quot;i] >> internal:role=link</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>5eb2f397-3505-4912-b6ba-5d664ecab2ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>department-details-wakf-board-college-madurai.php?type=Self-Finance&amp;&amp;department=Department+of+Commerce+%28Computer+Applications%29</value>
+      <webElementGuid>2aa17eec-d2c9-4a6a-be4f-e8636c7af8a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>View Details</value>
+      <webElementGuid>2feafa52-c88e-4ab7-9540-e7ee3d637224</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;self&quot;)/div[@id=&quot;customer-reviews&quot;]/div[@class=&quot;box-reviews1&quot;]/div[@class=&quot;form-add&quot;]/fieldset[1]/table[@id=&quot;product-review-table&quot;]/tbody[1]/tr[5]/td[@class=&quot;value&quot;]/span[@class=&quot;float-right&quot;]/a[1]</value>
+      <webElementGuid>ab2f0ef8-61ff-4d51-83cf-19b86ca29e7d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//table[@id='product-review-table']/tbody/tr[5]/td[2]/span/a)[2]</value>
+      <webElementGuid>198c6975-117f-434d-87e3-afd84e31b0f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'View Details')])[20]</value>
+      <webElementGuid>a1ddca16-1955-4489-ba3c-6d4fbb97b63c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View Details'])[19]/following::a[1]</value>
+      <webElementGuid>688ca126-f677-4a5b-8ce2-2566b9a8dbf5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View Details'])[21]/preceding::a[1]</value>
+      <webElementGuid>4868c8f4-c829-4eb0-a619-c6cc529bd2f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'department-details-wakf-board-college-madurai.php?type=Self-Finance&amp;&amp;department=Department+of+Commerce+%28Computer+Applications%29')]</value>
+      <webElementGuid>6570e0dd-ed52-4e76-a2d1-5f4c9b41d02e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/fieldset/table/tbody/tr[5]/td[2]/span/a</value>
+      <webElementGuid>239c20cc-6e62-4449-83cc-4e8f23d8767b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'department-details-wakf-board-college-madurai.php?type=Self-Finance&amp;&amp;department=Department+of+Commerce+%28Computer+Applications%29' and (text() = 'View Details' or . = 'View Details')]</value>
+      <webElementGuid>61e9ce13-aa2f-4329-baa3-c3ce4ba9a159</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

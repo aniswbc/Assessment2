@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>10b017c0-6c78-4fcd-9a57-362b126a4983</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h3 > img</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//h3/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;Dr. S.A.N. Shazuli Ibrahim M.Com., M.Phil., Ph.D.,M.B.A., SLET., PGDCA., Principal (In Charge)&quot;i] >> img</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>ade05f7c-b515-445f-bfea-5a5494ee9184</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/workarea/kcfinder/upload/images/Shazuli--web1.jpg</value>
+      <webElementGuid>297cfe04-dbdc-4264-b47e-b3ae50d877ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;cms-index-index&quot;]/div[@class=&quot;page&quot;]/div[@class=&quot;main-container col2-right-layout&quot;]/div[@class=&quot;main container&quot;]/div[@class=&quot;row&quot;]/section[@class=&quot;col-main col-sm-9&quot;]/div[@class=&quot;static-contain&quot;]/table[1]/tbody[1]/tr[1]/td[2]/h3[1]/img[1]</value>
+      <webElementGuid>e42cf5b5-00cb-4365-bede-38a86bd67f57</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3/img</value>
+      <webElementGuid>01caeeb5-1fcd-4a98-8c08-bcc5974ba120</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/workarea/kcfinder/upload/images/Shazuli--web1.jpg']</value>
+      <webElementGuid>f5ea6635-6dc8-4515-9198-9db27ddffb35</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

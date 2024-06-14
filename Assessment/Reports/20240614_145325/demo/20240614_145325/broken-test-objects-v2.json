@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Photo Gallery WAKF Board College Madurai/img_msswbcollegegmail.com_fancybox-image",
+      "brokenLocator": "//div/div/img",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//img[@src \u003d \u0027images/gallery/9924-3.jpg\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20240614_145325/demo/20240614_145325/Object Repository/Page_Photo Gallery WAKF Board College Madurai/img_msswbcollegegmail.com_fancybox-image_customAttributes.png"
+    }
+  ]
+}
