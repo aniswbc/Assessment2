@@ -1,0 +1,42 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+demo,Chrome 125.0.0.0,,,14-06-2024 14:53:34,14-06-2024 15:00:57,7m - 23.033s,FAILED
+,,,,,,,
+Test Cases/Wakf Board College,Chrome 125.0.0.0,,,14-06-2024 14:56:25,14-06-2024 14:57:18,52.589s,FAILED
+"openBrowser("""")",Chrome 125.0.0.0,,,14-06-2024 14:56:25,14-06-2024 14:56:27,2.246s,PASSED
+"navigateToUrl(""https://www.msswbc.org/"")",Chrome 125.0.0.0,,,14-06-2024 14:56:27,14-06-2024 14:56:33,5.791s,PASSED
+"click(findTestObject(""Object Repository/Page_MSS WAKF BOARD College Madurai  Offici_95a2a2/p_We provide a balanced environment, where _acdef9""))",Chrome 125.0.0.0,,,14-06-2024 14:56:33,14-06-2024 14:56:34,0.553s,PASSED
+"click(findTestObject(""Object Repository/Page_MSS WAKF BOARD College Madurai  Offici_95a2a2/p_Our website is a window to our lively col_d2ae73""))",Chrome 125.0.0.0,,,14-06-2024 14:56:34,14-06-2024 14:56:34,0.541s,PASSED
+"click(findTestObject(""Object Repository/Page_MSS WAKF BOARD College Madurai  Offici_95a2a2/img""))",Chrome 125.0.0.0,,,14-06-2024 14:56:34,14-06-2024 14:56:35,0.403s,PASSED
+"click(findTestObject(""Object Repository/Page_MSS WAKF BOARD College Madurai  Offici_95a2a2/strong_M.Com., M.Phil., Ph.D.,M.B.A., SLET., PGDCA""))",Chrome 125.0.0.0,,,14-06-2024 14:56:35,14-06-2024 14:56:35,0.317s,PASSED
+"click(findTestObject(""Object Repository/Page_MSS WAKF BOARD College Madurai  Offici_95a2a2/p_Our Mission is to impart sound knowledge _1a2003""))",Chrome 125.0.0.0,,,14-06-2024 14:56:35,14-06-2024 14:56:35,0.345s,PASSED
+"click(findTestObject(""Object Repository/Page_MSS WAKF BOARD College Madurai  Offici_95a2a2/span_ABOUT""))",Chrome 125.0.0.0,,,14-06-2024 14:56:35,14-06-2024 14:56:36,1.168s,PASSED
+"click(findTestObject(""Object Repository/Page_About WAKF BOARD College Profile, Madurai/span_MUQYYATH SHA SIRGUROWAKF BOARD COLLEGE""))",Chrome 125.0.0.0,,,14-06-2024 14:56:36,14-06-2024 14:56:37,0.556s,PASSED
+"click(findTestObject(""Object Repository/Page_About WAKF BOARD College Profile, Madurai/p_Our Mission is to impart sound knowledge _1a2003""))",Chrome 125.0.0.0,,,14-06-2024 14:56:37,14-06-2024 14:56:37,0.284s,PASSED
+"click(findTestObject(""Object Repository/Page_About WAKF BOARD College Profile, Madurai/p_The Government of Tamil Nadu assigned a v_43770b""))",Chrome 125.0.0.0,,,14-06-2024 14:56:37,14-06-2024 14:56:38,0.518s,PASSED
+"rightClick(findTestObject(""Object Repository/Page_About WAKF BOARD College Profile, Madurai/p_The College library is equipped with more_50b7d2""))",Chrome 125.0.0.0,,,14-06-2024 14:56:38,14-06-2024 14:56:38,0.444s,PASSED
+"click(findTestObject(""Object Repository/Page_About WAKF BOARD College Profile, Madurai/p_The college Conference Hall was inaugurat_542f21""))",Chrome 125.0.0.0,,,14-06-2024 14:56:38,14-06-2024 14:56:39,0.327s,PASSED
+"click(findTestObject(""Object Repository/Page_About WAKF BOARD College Profile, Madurai/span_GALLERY""))",Chrome 125.0.0.0,,,14-06-2024 14:56:39,14-06-2024 14:56:41,2.147s,PASSED
+"click(findTestObject(""Object Repository/Page_Photo Gallery WAKF Board College Madurai/img""))",Chrome 125.0.0.0,,,14-06-2024 14:56:41,14-06-2024 14:56:45,4.117s,PASSED
+"click(findTestObject(""Object Repository/Page_Photo Gallery WAKF Board College Madurai/img_msswbcollegegmail.com_fancybox-image""))",Chrome 125.0.0.0,,,14-06-2024 14:56:45,14-06-2024 14:57:16,31.532s,PASSED
+"click(findTestObject(""Object Repository/Page_Photo Gallery WAKF Board College Madurai/a_msswbcollegegmail.com_fancybox-item fancy_293253""))",Chrome 125.0.0.0,,,14-06-2024 14:57:16,14-06-2024 14:57:17,0.788s,PASSED
+"click(findTestObject(""Object Repository/Page_Photo Gallery WAKF Board College Madurai/img_1""))",Chrome 125.0.0.0,,,14-06-2024 14:57:17,14-06-2024 14:57:18,0.477s,FAILED
+,,,,,,,
+Test Cases/Wakf Board College,Chrome 125.0.0.0,,,14-06-2024 15:00:01,14-06-2024 15:00:57,55.702s,FAILED
+"openBrowser("""")",Chrome 125.0.0.0,,,14-06-2024 15:00:02,14-06-2024 15:00:04,2.452s,PASSED
+"navigateToUrl(""https://www.msswbc.org/"")",Chrome 125.0.0.0,,,14-06-2024 15:00:04,14-06-2024 15:00:12,7.540s,PASSED
+"click(findTestObject(""Object Repository/Page_MSS WAKF BOARD College Madurai  Offici_95a2a2/p_We provide a balanced environment, where _acdef9""))",Chrome 125.0.0.0,,,14-06-2024 15:00:12,14-06-2024 15:00:12,0.537s,PASSED
+"click(findTestObject(""Object Repository/Page_MSS WAKF BOARD College Madurai  Offici_95a2a2/p_Our website is a window to our lively col_d2ae73""))",Chrome 125.0.0.0,,,14-06-2024 15:00:12,14-06-2024 15:00:13,0.538s,PASSED
+"click(findTestObject(""Object Repository/Page_MSS WAKF BOARD College Madurai  Offici_95a2a2/img""))",Chrome 125.0.0.0,,,14-06-2024 15:00:13,14-06-2024 15:00:13,0.424s,PASSED
+"click(findTestObject(""Object Repository/Page_MSS WAKF BOARD College Madurai  Offici_95a2a2/strong_M.Com., M.Phil., Ph.D.,M.B.A., SLET., PGDCA""))",Chrome 125.0.0.0,,,14-06-2024 15:00:13,14-06-2024 15:00:13,0.290s,PASSED
+"click(findTestObject(""Object Repository/Page_MSS WAKF BOARD College Madurai  Offici_95a2a2/p_Our Mission is to impart sound knowledge _1a2003""))",Chrome 125.0.0.0,,,14-06-2024 15:00:13,14-06-2024 15:00:14,0.300s,PASSED
+"click(findTestObject(""Object Repository/Page_MSS WAKF BOARD College Madurai  Offici_95a2a2/span_ABOUT""))",Chrome 125.0.0.0,,,14-06-2024 15:00:14,14-06-2024 15:00:15,1.253s,PASSED
+"click(findTestObject(""Object Repository/Page_About WAKF BOARD College Profile, Madurai/span_MUQYYATH SHA SIRGUROWAKF BOARD COLLEGE""))",Chrome 125.0.0.0,,,14-06-2024 15:00:15,14-06-2024 15:00:15,0.535s,PASSED
+"click(findTestObject(""Object Repository/Page_About WAKF BOARD College Profile, Madurai/p_Our Mission is to impart sound knowledge _1a2003""))",Chrome 125.0.0.0,,,14-06-2024 15:00:15,14-06-2024 15:00:16,0.285s,PASSED
+"click(findTestObject(""Object Repository/Page_About WAKF BOARD College Profile, Madurai/p_The Government of Tamil Nadu assigned a v_43770b""))",Chrome 125.0.0.0,,,14-06-2024 15:00:16,14-06-2024 15:00:16,0.556s,PASSED
+"rightClick(findTestObject(""Object Repository/Page_About WAKF BOARD College Profile, Madurai/p_The College library is equipped with more_50b7d2""))",Chrome 125.0.0.0,,,14-06-2024 15:00:16,14-06-2024 15:00:17,0.402s,PASSED
+"click(findTestObject(""Object Repository/Page_About WAKF BOARD College Profile, Madurai/p_The college Conference Hall was inaugurat_542f21""))",Chrome 125.0.0.0,,,14-06-2024 15:00:17,14-06-2024 15:00:17,0.315s,PASSED
+"click(findTestObject(""Object Repository/Page_About WAKF BOARD College Profile, Madurai/span_GALLERY""))",Chrome 125.0.0.0,,,14-06-2024 15:00:17,14-06-2024 15:00:19,2.316s,PASSED
+"click(findTestObject(""Object Repository/Page_Photo Gallery WAKF Board College Madurai/img""))",Chrome 125.0.0.0,,,14-06-2024 15:00:19,14-06-2024 15:00:24,5.121s,PASSED
+"click(findTestObject(""Object Repository/Page_Photo Gallery WAKF Board College Madurai/img_msswbcollegegmail.com_fancybox-image""))",Chrome 125.0.0.0,,,14-06-2024 15:00:24,14-06-2024 15:00:56,31.584s,PASSED
+"click(findTestObject(""Object Repository/Page_Photo Gallery WAKF Board College Madurai/a_msswbcollegegmail.com_fancybox-item fancy_293253""))",Chrome 125.0.0.0,,,14-06-2024 15:00:56,14-06-2024 15:00:57,0.791s,PASSED
+"click(findTestObject(""Object Repository/Page_Photo Gallery WAKF Board College Madurai/img_1""))",Chrome 125.0.0.0,,,14-06-2024 15:00:57,14-06-2024 15:00:57,0.437s,FAILED
